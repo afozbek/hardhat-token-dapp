@@ -1,3 +1,5 @@
+Rinkeby Address -> 0x6d216d18718333Ea14172Bb9F216AAB5D4cC8557
+
 # Hardhat Hackathon Boilerplate
 
 This repository contains a sample project that you can use as the starting point
@@ -41,7 +43,7 @@ npm install
 npm start
 ```
 
-> Note: There's [an issue in `ganache-core`](https://github.com/trufflesuite/ganache-core/issues/650) that can make the `npm install` step fail. 
+> Note: There's [an issue in `ganache-core`](https://github.com/trufflesuite/ganache-core/issues/650) that can make the `npm install` step fail.
 >
 > If you see `npm ERR! code ENOLOCAL`, try running `npm ci` instead of `npm install`.
 
